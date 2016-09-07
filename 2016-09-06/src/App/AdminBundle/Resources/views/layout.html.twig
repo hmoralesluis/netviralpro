@@ -1,0 +1,94 @@
+{% extends '::base-admin.html.twig' %}
+
+{% block title %}{% endblock %}
+
+{% block stylesheets %}{% endblock %}
+
+{% block notifications %}
+    {% set associatedNotificationTypes = app.session.get('associatedNotificationTypes') %}
+    {% for associatedNotificationType in associatedNotificationTypes if not associatedNotificationType.onBody %}
+        <li class="dropdown" id="header_notification_bar">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <i class="{{ associatedNotificationType.icon }}"></i>
+                {% if associatedNotificationType.amount > 0 %}
+                    <span class="badge">{{ associatedNotificationType.amount }}</span>
+                {% endif %}
+            </a>
+            <ul class="dropdown-menu extended notification">
+                <li>
+                    {% if associatedNotificationType.amount > 0 %}
+                        {% if associatedNotificationType.name == 'Mensajería' %}
+                            <p>Tiene {{ associatedNotificationType.amount }} mensajes nuevos</p>
+                        {% else %}
+                            <p>Tiene {{ associatedNotificationType.amount }} notificaciones</p>
+                        {% endif %}
+                    {% else %}
+                        {% if associatedNotificationType.name == 'Mensajería' %}
+                            <p>No tiene mensajes sin leer</p>
+                        {% else %}
+                            <p>No hay nuevas notificaciones</p>
+                        {% endif %}
+                    {% endif %}
+                </li>
+                {% set notificationsInLastWeek = app.session.get('notificationsInLastWeek') %}
+                {% set cont = 0 %}
+                {% for notification in notificationsInLastWeek %}
+                    {% if cont < 5 %}
+                        {% if associatedNotificationType in notification.notificationTypes and associatedNotificationType.name == 'Mensajería' %}
+                            <li>
+                                <a href="#">
+                                <span class="photo"><img
+                                            src="{{ asset('bundles/admin/img/' ~ notification.image ) }}"
+                                            alt=""/></span>
+                        <span class="subject">
+                        <span class="from">Lisa Wong</span>
+                        <span class="time">Just Now</span>
+                        </span>
+                        <span class="message">
+                        Vivamus sed auctor nibh congue nibh. auctor nibh
+                        auctor nibh...
+                        </span>
+                                </a>
+                            </li>
+                        {% elseif associatedNotificationType in notification.notificationTypes and associatedNotificationType.name != 'Mensajería' %}
+                            <li>
+                                <a href="#">
+                                <span class="label {{ notification.label }}"><i
+                                            class="{{ notification.image }}"></i></span>
+                                    {{ notification.title }}
+                                    <span class="time">{{ notification.date | date("F jS") }}</span>
+                                </a>
+                            </li>
+                        {% endif %}
+                        {% set cont = cont + 1 %}
+                    {% endif %}
+                {% endfor %}
+                {% if associatedNotificationType.amount > 5 %}
+                    <li class="external">
+                        <a href="#">Ver todas las Notificaciones <i class="m-icon-swapright"></i></a>
+                    </li>
+                {% endif %}
+            </ul>
+        </li>
+    {% endfor %}
+{% endblock %}
+
+{% block menu %}
+    {% import '@Admin/Macro/macros.html.twig' as macro %}
+    {% set options = app.session.get('options_to_show') %}
+    {% for option in options if option.AsociatedOption is null %}
+        <li id="{{ option.name }}" class="treeview">
+            <a href="{% if option.path %} {{ path(option.path) }} {% else %} # {% endif %}">
+                <i class="{{ option.icon }}"></i>
+                <span class="title">{{ option.name }}</span>
+                {% if option.options | length > 0 %}<span class="arrow"></span>{% endif %}
+            </a>
+            {{ macro.recursiveList(option.options, option.id) }}
+        </li>
+    {% endfor %}
+{% endblock %}
+
+{% block content %}{% endblock %}
+
+{% block javascripts %}
+{% endblock %}
