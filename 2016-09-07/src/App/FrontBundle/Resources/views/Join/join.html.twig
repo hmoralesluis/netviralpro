@@ -1,0 +1,181 @@
+{% extends 'FrontBundle::layout.html.twig' %}
+
+{% block title %}Registro{% endblock %}
+
+{% block body %}
+    <div role="main" class="main">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <h1 class="page-header">Bienvenido a nuestra Compañia
+                        <small>Complete el registro</small>
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="{{ path('homepage') }}">Inicio</a><span class="divider">/</span></li>
+                        <li class="active">Registro</li>
+                    </ol>
+                    <h4>Administre su negocio</h4>
+
+                    <p>Cookie jelly beans soufflé icing. Gummi bears tootsie roll powder chupa chups cheesecake
+                        chocolate jelly-o lollipop lollipop. Halvah applicake chupa chups. Marshmallow chocolate
+                        jujubes
+                        icing lollipop gummi bears chupa chups pudding bonbon. Jelly beans jelly soufflé jujubes.
+                        <a href="#"> read moore.</a></p>
+                    <hr class="tall"/>
+
+                    <h3 class="short"><strong>Cuatro</strong> Planes</h3>
+
+                    <p>Using the "Most Popular" css class.</p>
+                </div>
+                <div class="pricing-table">
+                    <div class="span4">
+                        <div>
+                            <div class="box-content">
+                                <form action="{{ path('management_user_create') }}" id="RgisterForm" method="post">
+                                    <input type="hidden" name="m" id="m">
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Nombre</label>
+                                            <input type="text" name="name" id="name">
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Apellidos</label>
+                                            <input type="text" name="lastname" id="lastname">
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Sexo</label>
+                                            <select name="sex" id="sex">
+                                                <option selected="selected" value="Hombre">Hombre</option>
+                                                <option value="Mujer">Mujer</option>
+
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Correo electrónico</label>
+                                            <input type="email" name="email" id="email">
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>País de Residencia</label>
+                                            <select name="country" id="country">
+                                                {% for country in countries %}
+                                                    <option value="{{ country.Alpha2Code }}">{{ country.name }}</option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Usuario</label>
+                                            <input type="text" name="username" id="username">
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Contraseña</label>
+                                            <input type="password" name="pass" id="pass">
+                                        </div>
+                                    </div>
+                                    <div class="row controls">
+                                        <div class="control-group">
+                                            <label>Repita la contraseña</label>
+                                            <input type="password" name="repass" id="repass">
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4 center">
+                        <div class="plan">
+                            <h3>LIBRE<span>$0</span></h3>
+                            <a class="btn btn-large btn-primary" href="javascript:validateSignUp({m : 1})">Entrar</a>
+                            <ul>
+                                <li><b>5</b> Dietas</li>
+                                <li><b>5</b> Planes de Entrenamiento</li>
+                                <li>Algunos Consejos</li>
+                                <li>Página Personal</li>
+                                <li>Compartir en Redes Sociales</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="plan most-popular">
+                            <div class="plan-ribbon-wrapper">
+                                <div class="plan-ribbon">Popular</div>
+                            </div>
+                            <h3>Registro<span>$9.99</span></h3>
+                            <a class="btn btn-large btn-primary" href="javascript:validateSignUp({m : 2})">Comprar</a>
+                            <ul>
+                                <li><b>10</b> Dietas</li>
+                                <li><b>10</b> Planes de Entrenamiento</li>
+                                <li>Algunos Consejos</li>
+                                <li>Página Personal</li>
+                                <li>Calculadora de Masa Corporal</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block javascripts %}
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".signin").click(function (e) {
+                e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+                $(".signin").toggleClass("menu-open");
+                if ($('.signin').hasClass('menu-open')) {
+                    $('.signin i.icon-angle-up').removeClass('icon-angle-up').addClass('icon-angle-down');
+                } else {
+                    $('.signin i.icon-angle-down').removeClass('icon-angle-down').addClass('icon-angle-up');
+                }
+            });
+            $("fieldset#signin_menu").mouseup(function () {
+                return false
+            });
+            $(document).mouseup(function (e) {
+                if ($(e.target).parent("a.signin").length == 0) {
+                    $(".signin").removeClass("menu-open");
+                    $("fieldset#signin_menu").hide();
+                    $('.signin i.icon-angle-down').removeClass('icon-angle-down').addClass('icon-angle-up');
+                }
+            });
+        });
+
+        function validateSignUp(parameters){
+            var m = parameters.m;
+            var empty = false;
+            $('#m').val(m);
+            $('#RgisterForm input').each(function(i){
+                if($(this).val() == ''){
+                    empty = true;
+                }
+            });
+            if(!empty){
+                if($('#pass').val() != '' &&  $('#repassword').val() != ''){
+                    if($('#pass').val() != $('#repass').val()){
+                        alert('Las contraseñas proporcionadas no coinciden');
+                    } else {
+                        $('#RgisterForm').submit();
+                    }
+                } else {
+                    alert('Existen campos de contraseña vacios');
+                }
+            } else {
+                alert('Existen campos vacios');
+            }
+        }
+    </script>
+{% endblock %}

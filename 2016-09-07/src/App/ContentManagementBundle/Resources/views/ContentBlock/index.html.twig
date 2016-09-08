@@ -1,0 +1,87 @@
+{% extends 'AdminBundle::layout.html.twig' %}
+
+{% block title %}list of content blocks{% endblock %}
+
+{% block description %}Manage content application{% endblock %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/admin/plugins/select2/select2_metro.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('bundles/admin/plugins/data-tables/DT_bootstrap.css') }}"/>
+{% endblock %}
+
+{% block content %}
+    <div class="row-fluid">
+        <div class="span12">
+            <div class="portlet box blue">
+                <div class="portlet-title">
+                    <div class="caption"><i class="icon-reorder"></i>Content Blocks</div>
+                </div>
+                <div class="portlet-body flip-scroll">
+                    <div class="clearfix">
+                        <div class="btn-group">
+                            <a href="{{ path('management_contentblock_new') }}" class="btn green">
+                                Add new content block <i class="icon-plus"></i>
+                            </a>
+                        </div>
+                        <div class="btn-group pull-right">
+                            <button class="btn dropdown-toggle" data-toggle="dropdown">Tools <i
+                                        class="icon-angle-down"></i>
+                            </button>
+                            <ul class="dropdown-menu pull-right">
+                                <li><a href="#">Active</a></li>
+                                <li><a href="#">Inactive</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <table class="table table-hover" id="sample_3">
+                        <thead>
+                        <tr>
+                            <th style="width:8px;"><input type="checkbox" class="group-checkable"
+                                                          data-set="#sample_3 .checkboxes"/></th>
+                            <th>Name</th>
+                            <th class="hidden-480">Position</th>
+                            <th class="hidden-480">Active</th>
+                            <th class="hidden-480">Content</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for entity in entities %}
+                            <tr class="odd gradeX">
+                                <td><input type="checkbox" class="checkboxes" value="1"/></td>
+                                <td>{{ entity.name }}</td>
+                                <td class="hidden-480">
+                                    <select>
+                                        {% for p in range(1, entities | length) %}
+                                            <option {% if p == entity.position %} selected {% endif %}
+                                                    onclick="window.location.href='{{ path('management_contentblock_position_update', {'id' : entity.id, 'p' : p }) }}'">{{ p }}</option>
+                                        {% endfor %}
+                                    </select>
+                                    <a href="#">{{ entity.position }}</a>
+                                </td>
+                                {% if entity.active %}
+                                    <td><span class="label label-success">active</span></td>
+                                {% else %}
+                                    <td><span class="label label-important">inactive</span></td>
+                                {% endif %}
+                                <td><a href="#" class="tooltips" data-original-title="Edit associated content to this block"><i class="icon-pencil"></i></a></td>
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block javascripts %}
+    <script type="text/javascript" src="{{ asset('bundles/admin/plugins/select2/select2.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/admin/plugins/data-tables/jquery.dataTables.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('bundles/admin/plugins/data-tables/DT_bootstrap.js') }}"></script>
+    <script src="{{ asset('bundles/admin/scripts/table-managed.js') }}"></script>
+    <script>
+        jQuery(document).ready(function () {
+            TableManaged.init();
+        });
+    </script>
+{% endblock %}
