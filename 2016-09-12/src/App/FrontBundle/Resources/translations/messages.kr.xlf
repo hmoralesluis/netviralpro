@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="es" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>Bienvenido a NETVIRALPRO.COM</source>
+                <target>Netviralpro.com에 오신 것을 환영합니다</target>
+            </trans-unit>
+			<trans-unit id="2">
+                <source>Gane su primera comisión rápidamente.</source>
+                <target>첫번째 커미션을 빠르게 적립하십시오!</target>
+            </trans-unit>
+			<trans-unit id="3">
+                <source>¡Este es tu momento, aprovéchalo!</source>
+                <target>이것은 큰 기회입니다. 최대한 활용하십시오!</target>
+            </trans-unit>
+			<trans-unit id="4">
+                <source>Sobre Nosotros</source>
+                <target>회사 소개</target>
+            </trans-unit>
+			<trans-unit id="5">
+                <source>Netviralpro.com, pertenece al sector de venta de servicios y negocios online y se desarrolla a nivel internacional. Esto permitirá al usuario desarrollar su propio negocio en cualquier parte del mundo. La empresa, fundada por importantes empresarios internacionales, pretende fortalecer todos los vínculos existentes entre los miembros de nuestra comunidad, las empresas y los usuarios convencionales para que pueda existir un importante vínculo retroactivo entre todos. NETVIRALPRO trabaja bajo un sistema de recompensas multinivel, donde se premia tanto el trabajo individual como el grupal y donde todos los usuarios pueden obtener grandes beneficios, tanto por su trabajo como por el de su grupo. Presenta un sistema retributivo flexible y transparente, lo que supondrá al usuario una mayor estabilidad y confianza para saber que su negocio sigue creciendo de una forma estable y sin ningún tipo de riesgo.</source>
+                <target>Netviralpro.com는 온라인 판매 및 서비스 부문에 속하며 본 회사는 국제적으로 발전되고 있습니다. 본 개념은 사용자가 전 세계적으로 어디에서나 자신의 온라인 사업을 시작할 수 있도록 합니다. 글로벌 기업 리더가 설립한 저희 회사는 필수적 소급 기업 네트워크를 생성하기 위해서 지역 사회, 기업 및 기존 사용자의 모든 구성원 사이에 기존 관련을 강화하는데 목적을 두고 있습니다.
+
+                        Netviralpro는 모든 사용자가 큰 성공을 성취할 수 있도록 개인 및 그룹 작업 모두 보상하는 멀티 레벨 보상 시스템을 사용하여 작업합니다. 위험 상태에 놓이는 것 없이 자신의 비즈니스를 지속적으로 발전시킬 필요한 안정성과 자신감을 사용자에게 제공하는 유연하고 투명한 보수 시스템을 갖추고 있습니다.
+</target>
+            </trans-unit>
+			<trans-unit id="6">
+                <source>Según expertos analistas en pocos años se convertirá en una de las empresas de mayor crecimiento a nivel mundial, gracias a su novedosa visión de la industria multinivel. ¿Ha imaginado alguna vez una oportunidad de negocio que le permita especializarse en el área o áreas de trabajo que usted mismo decida? Pues bien, con NETVIRALPRO podrá conseguirlo y obtener grandes beneficios trabajando en algo que realmente le guste. Además le dará la oportunidad de tener un sueldo de acuerdo a sus expectativas y esfuerzo. De este modo, gracias a la oportunidad de negocio que se ofrece desde NETVIRALPRO y el potencial de crecimiento que se augura por parte de la compañía, hace que esté enfrente de usted una de las oportunidades más brillantes de la historia. ¿Acepta este reto? En NETVIRALPRO podrá trabajar por su cuenta, pero nunca estará sólo, ya que tras usted habrá una importante red de trabajo. NETVIRALPRO es sinónimo de ÉXITO.</source>
+                <target>전문가의 분석에 따르면, 몇 년 동안 저희는 다단계 마케팅 사업의 혁신적인 비전 덕택에 전 세계적으로 가장 빠르게 성장하는 온라인 사업 중 하나가 될 것입니다. 열정을 가진 분야에 사업을 시작할 기회를 가진다고 상상해보십시오. Netviralpro를 사용하여, 이를 정확히 이용할 수 있으며; 좋아하는 일을 하면서 큰 이익을 가질 수 있습니다. 또한 기대와 노력에 일치하는 급여를 벌 기회를 제공합니다.
+
+                        Netviralpro와 회사의 우수한 성장 잠재력이 제공되는 훌륭한 사업 기회는 역사상 가장 흥미로운 비즈니스 기회 중 하나로 최선두에 있을 것입니다. 도전하시겠습니까?
+
+                        Netviralpro에서 여러분은 직접 작업할 옵션을 가지게 됩니다. 하지만, 빠르게 성장하는 중요한 기업 네트워크의 일환이기 때문에 절대 혼자서 작업하지 않을 것입니다.
+
+                        Netviralpro는 '성공'의 동의어입니다!
+</target>
+            </trans-unit>
+			<trans-unit id="7">
+                <source>Empieza Ahora!</source>
+                <target>Start Now!</target>
+            </trans-unit>
+			<trans-unit id="8">
+                <source>Nuestros Productos</source>
+                <target>Our Products</target>
+            </trans-unit>
+			<trans-unit id="9">
+                <source>Empiece su negocio online ahora mismo!</source>
+                <target>Start your own online business right now!</target>
+            </trans-unit>
+			<trans-unit id="10">
+                <source>Mejore sus conocimientos de marketing con los mejores especialistas.</source>
+                <target>Improve your marketing knowledge with help from the best specialists.</target>
+            </trans-unit>
+			<trans-unit id="11">
+                <source>Tenga acceso a los mejores softwares de maketing del mercado!</source>
+                <target>Gain access to the best marketing software on the market!</target>
+            </trans-unit>
+			<trans-unit id="12">
+                <source>Pongase en la mente del cliente y tenga exito en la venta!</source>
+                <target>Put yourself in your client’s shoes to get the best possible sales success!</target>
+            </trans-unit>
+			<trans-unit id="13">
+                <source>Beneficiese de tener su propia tienda Online!</source>
+                <target>See the benefits of having your own online store!</target>
+            </trans-unit>
+			<trans-unit id="14">
+                <source>Ver nuestros productos</source>
+                <target>See our products</target>
+            </trans-unit>
+			<trans-unit id="15">
+                <source>Oportunidad de Negocios</source>
+                <target>Bussines Oportunity</target>
+            </trans-unit>
+			<trans-unit id="16">
+                <source>Bienvenido a</source>
+                <target>Welcome to</target>
+            </trans-unit>
+			<trans-unit id="17">
+                <source>¿ Alguna vez imaginó tener la posibilidad de obtener grandes ingresos por trabajar en una compañía en expansión a nivel internacional? Pues esto es posible gracias a NETVIRALPRO, una importante empresa multinivel que le dará a usted la posibilidad de crear su propio negocio online sin necesidad de invertir grandes sumas y sin correr el riesgo  que le supondría a usted tener un negocio particular. Su única misión en la compañía será  potenciar su grupo de trabajo y su red de clientes para poder llegar a obtener importantes beneficios. Para ello, la empresa le dotará de potentes herramientas de marketing que le permitirán hacer crecer su negocio. Netviralpro se encargará del resto: dar alojamiento y mantenimiento de sus páginas personales, prestar servicio de atención al cliente y  atención al representante y expandir la compañía a nivel internacional.</source>
+                <target>Have you ever wanted to earn a huge income working for a fast growing international company? Well, this is your chance. Netviralpro is an important multilevel marketing company that offers you the chance to start your own online business without investing large sums of money and running the huge financial risks that you would if you started your own company. Our company’s only mission is to strengthen its business group and network so that our users can start earning some serious money. To do so, the company provides powerful marketing tools which allow the user to grow their own online business. Netviralpro does the rest; providing personal webpages including their maintenance, user customer service and attention, and promotion of our company on an international level.</target>
+            </trans-unit>
+			<trans-unit id="18">
+                <source>Trabajar en equipo divide el trabajo y multiplica los resultados. ¡Este es tu momento, aprovéchalo!</source>
+                <target>Work as a team, divide the workload, and multiply the results!</target>
+            </trans-unit>
+			<trans-unit id="19">
+                <source>Gane su primera comisión rápidamente.</source>
+                <target>Earn your first commission fast!</target>
+            </trans-unit>
+			<trans-unit id="20">
+                <source>Cree su propia red de trabajo.</source>
+                <target>Create your own business network.</target>
+            </trans-unit>
+			<trans-unit id="21">
+                <source>Obtenga importantes ingresos.</source>
+                <target>Start earning some serious revenue.</target>
+            </trans-unit>
+			<trans-unit id="22">
+                <source>Aprender más</source>
+                <target>Learn More</target>
+            </trans-unit>
+			<trans-unit id="23">
+                <source>Ver Planes de Compensación</source>
+                <target>See Compensation Plans</target>
+            </trans-unit>
+			<trans-unit id="24">
+                <source>Ver Planes de Compensación</source>
+                <target>See Compensation Plans</target>
+            </trans-unit>
+			<trans-unit id="25">
+                <source>Testimonios</source>
+                <target>Testimonials</target>
+            </trans-unit>
+			<trans-unit id="26">
+                <source>Actualmente somos más de 1000 usuarios y seguimos creciendo!.</source>
+                <target>We currently have more than 1,000 users and are growing fast!.</target>
+            </trans-unit>
+			<trans-unit id="27">
+                <source>Estas son algunas de las opiniones de nuestros clientes...</source>
+                <target>Here are some testimonials from our clients...</target>
+            </trans-unit>
+			<trans-unit id="28">
+                <source>Ver más testimonios</source>
+                <target>See more testimonials</target>
+            </trans-unit>
+			<trans-unit id="29">
+                <source>Porqué NETVIRALPRO?</source>
+                <target>Why NETVIRALPRO?</target>
+            </trans-unit>
+			<trans-unit id="30">
+                <source>Porqué NETVIRALPRO?</source>
+                <target>Why NETVIRALPRO?</target>
+            </trans-unit>
+			<trans-unit id="31">
+                <source>NETVIRALPRO ofrece al usuario una oportunidad única para trabajar por cuenta propia pero siempre apoyada por una importante red de trabajo que forma nuestra comunidad. Como usuario dentro de la comunidad NETVIRALPRO tendrá la posibilidad de tener un horario flexible y disfrutar de su tiempo libre mientras obtiene elevados beneficios por el trabajo de su red de contactos. En NETVIRALPRO le damos la oportunidad de aprovechar al máximo sus capacidades. ¿Ha soñado alguna vez estar ganando dinero mientras está de viaje, va de compras, está cenando con su familia o sale de fiesta con sus amigos? ¡NETVIRALPRO es su oportunidad!</source>
+                <target>Netviralpro는 우리 사회의 귀중한 사업 네트워크로 지속적으로 지원되는 동시에 직접 작업할 특별한 기회를 사용자에게 제공합니다.
+
+                        Netviralpro 네트워크 내에 사용자로서, 기업 네트워크에서 큰 이익을 가지는 동시에 실제로 자유 시간을 가지며 유연한 근무 시간을 즐길 수 있습니다.
+
+                        Netviralpro는 자신의 능력을 최대화할 수 있는 기회를 제공합니다.
+
+                        여행, 쇼핑, 가족과의 식사 또는 친구와 파티 참석을 하는 동시에 온라인으로 수익을 갖는 꿈을 가져보셨나요? Netviralpro가 바로 당신의 기회가 됩니다!
+</target>
+            </trans-unit>
+			<trans-unit id="32">
+                <source>Trabajo en equipo</source>
+                <target>Teamwork</target>
+            </trans-unit>
+			<trans-unit id="33">
+                <source>La forma en que se concibe el negocio. Cada uno trabaja individualmente pero además se beneficia del trabajo de la red que ha creado.</source>
+                <target>This is how the business has been conceived. Each person works individually but will also benefit from the work of others within their business network.</target>
+            </trans-unit>
+			<trans-unit id="34">
+                <source>Beneficio por esfuerzo</source>
+                <target>Reward for effort</target>
+            </trans-unit>
+			<trans-unit id="35">
+                <source>Cada usuario recibe beneficio por su esfuerzo personal y  por el esfuerzo del grupo de trabajo que él mismo ha creado.</source>
+                <target>Each user receives benefits for their personal work as well as the work of other people within their business network.</target>
+            </trans-unit>
+			<trans-unit id="36">
+                <source>Transparencia</source>
+                <target>Transparency</target>
+            </trans-unit>
+			<trans-unit id="37">
+                <source>El modo en que la empresa se muestra hacia todos sus usuarios, las empresas y los clientes potenciales.</source>
+                <target>There is full transparency in the way that the company is presented to its users, businesses, and potential clients.</target>
+            </trans-unit>
+			<trans-unit id="38">
+                <source>Sostenibilidad</source>
+                <target>Sustainability</target>
+            </trans-unit>
+			<trans-unit id="39">
+                <source>La forma en que la empresa plantea la idea de negocio.</source>
+                <target>The company forms sustainable business strategies.</target>
+            </trans-unit>
+			<trans-unit id="40">
+                <source>Eficacia</source>
+                <target>Efficiency</target>
+            </trans-unit>
+			<trans-unit id="41">
+                <source>Entendida como la posibilidad que le da al usuario para tener su propio negocio y conseguir un resultado brillante.</source>
+                <target>Understood as the possibility given to the user to create their own online business in order to achieve impressive results.</target>
+            </trans-unit>
+			<trans-unit id="42">
+                <source>Rendimiento óptimo</source>
+                <target>Optimal performance</target>
+            </trans-unit>
+			<trans-unit id="43">
+                <source>La posibilidad que la empresa da al usuario para que pueda conseguir beneficios de acuerdo a su esfuerzo y el de su grupo de trabajo.</source>
+                <target>The opportunity that the company gives to its users to earn money according to their individual efforts and those of their business network.</target>
+            </trans-unit>
+			<trans-unit id="44">
+                <source>Empieza Ahora</source>
+                <target>Start Now</target>
+            </trans-unit>
+			<trans-unit id="45">
+                <source>Productos</source>
+                <target>Products</target>
+            </trans-unit>
+			<trans-unit id="46">
+                <source>Oportunidad</source>
+                <target>Oportunity</target>
+            </trans-unit>
+			<trans-unit id="47">
+                <source>Contacta</source>
+                <target>Contact</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>SOBRE NOSOTROS</source>
+                <target>ABOUT US</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>PRODUCTOS</source>
+                <target>PRODUCTS</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>OPORTUNIDAD</source>
+                <target>OPORTUNITY</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>TESTIMONIOS</source>
+                <target>TESTIMONIALS</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>PORQUE NETVIRALPRO?</source>
+                <target>왜 Netviralpro로 작업하나요?</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>CONTACTA</source>
+                <target>CONTACT</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>ENTRAR</source>
+                <target>LOGIN</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Empieza tu negocio online ahora mismo!</source>
+                <target>Start your own online business right now!</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Mejora tus conocimientos de marketing con los mejores especialistas.</source>
+                <target>Improve your marketing knowledge with help from the best specialists.</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Ten acceso a los mejores softwares de maketing del mercado!</source>
+                <target>Gain access to the best marketing software on the market!</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Ponte en la mente del cliente y tenga exito en la venta!</source>
+                <target>Put yourself in your client’s shoes to get the best possible sales success!</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Tenga su propia tienda Online!</source>
+                <target>See the benefits of having your own online store!</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
