@@ -1,0 +1,786 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="es" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>Bienvenido a NETVIRALPRO.COM</source>
+                <target>Benvenuto su Netviralpro.com</target>
+            </trans-unit>
+			<trans-unit id="2">
+                <source>Gane su primera comisión rápidamente.</source>
+                <target>Guadagna la tua prima commissione rapidamente!</target>
+            </trans-unit>
+			<trans-unit id="3">
+                <source>¡Este es tu momento, aprovéchalo!</source>
+                <target>Questa è un'opportunità fantastica. Sfruttala al meglio!</target>
+            </trans-unit>
+			<trans-unit id="4">
+                <source>Sobre Nosotros</source>
+                <target>CHI SIAMO</target>
+            </trans-unit>
+			<trans-unit id="5">
+                <source>Netviralpro.com, pertenece al sector de venta de servicios y negocios online y se desarrolla a nivel internacional. Esto permitirá al usuario desarrollar su propio negocio en cualquier parte del mundo. La empresa, fundada por importantes empresarios internacionales, pretende fortalecer todos los vínculos existentes entre los miembros de nuestra comunidad, las empresas y los usuarios convencionales para que pueda existir un importante vínculo retroactivo entre todos. NETVIRALPRO trabaja bajo un sistema de recompensas multinivel, donde se premia tanto el trabajo individual como el grupal y donde todos los usuarios pueden obtener grandes beneficios, tanto por su trabajo como por el de su grupo. Presenta un sistema retributivo flexible y transparente, lo que supondrá al usuario una mayor estabilidad y confianza para saber que su negocio sigue creciendo de una forma estable y sin ningún tipo de riesgo.</source>
+                <target>Netviralpro.com appartiene al settore vendite servizi on-line e l'azienda si sviluppa a livello internazionale. Il concept consente ai nostri utenti di avviare la propria attività commerciale on-line ovunque nel mondo. La nostra azienda, fondata da leader del business globali, mira a rafforzare i collegamenti esistenti fra tutti i membri della nostra community, fra le aziende, e fra utenti convenzionali per poter creare essenzialmente network commerciali retroattivi.
+
+                        Netviralpro lavora utilizzando un sistema di ricompense multilivello che premia sia gli individui che i gruppi di lavoro in modo che tutti gli utenti possano ottenere un ottimo successo. Presenta un sistema di remunerazione flessibile e trasparente che fornisce agli utenti la stabilità e sicurezza necessarie per crescere continuamente nel loro business senza esporsi ad alcun rischio.
+                </target>
+            </trans-unit>
+			<trans-unit id="6">
+                <source>Según expertos analistas en pocos años se convertirá en una de las empresas de mayor crecimiento a nivel mundial, gracias a su novedosa visión de la industria multinivel. ¿Ha imaginado alguna vez una oportunidad de negocio que le permita especializarse en el área o áreas de trabajo que usted mismo decida? Pues bien, con NETVIRALPRO podrá conseguirlo y obtener grandes beneficios trabajando en algo que realmente le guste. Además le dará la oportunidad de tener un sueldo de acuerdo a sus expectativas y esfuerzo. De este modo, gracias a la oportunidad de negocio que se ofrece desde NETVIRALPRO y el potencial de crecimiento que se augura por parte de la compañía, hace que esté enfrente de usted una de las oportunidades más brillantes de la historia. ¿Acepta este reto? En NETVIRALPRO podrá trabajar por su cuenta, pero nunca estará sólo, ya que tras usted habrá una importante red de trabajo. NETVIRALPRO es sinónimo de ÉXITO.</source>
+                <target>Secondo l'analisi di esperti, in pochi anni diventeremo uno dei business on-line mondiali dalla crescita più rapida grazie alla nostra visione innovativa dell'industria del marketing multilivello. Immagina di poter avere l'opportunità di iniziare un'attività commerciale un settore che ti appassiona. Bene, con Netviralpro, potrai fare esattamente quello; guadagnare enormi profitti facendo qualcosa che ami davvero. Inoltre, ti diamo l'opportunità di guadagnare un salario che sia consistente con le tue aspettative e i tuoi sforzi.
+
+                        La fantastica opportunità commerciale offerta da Netviralpro e l'eccellente potenziale di crescita dell'azienda ti porterà in prima linea in una delle opportunità commerciali più i più stimati della storia. Sei pronto alla sfida?
+
+                        Su Netviralpro avrai la possibilità di lavorare da solo. Tuttavia, non lavorerai mai da solo dato che farai parte di un grosso network commerciale dalla rapida crescita.
+
+                        Netviralpro è sinonimo di SUCCESSO!
+                </target>
+            </trans-unit>
+			<trans-unit id="7">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="8">
+                <source>Nuestros Productos</source>
+                <target>Our Products</target>
+            </trans-unit>
+			<trans-unit id="9">
+                <source>Empiece su negocio online ahora mismo!</source>
+                <target>Inizia a guadagnare cifre significative</target>
+            </trans-unit>
+			<trans-unit id="10">
+                <source>Mejore sus conocimientos de marketing con los mejores especialistas.</source>
+                <target>Improve your marketing knowledge with help from the best specialists.</target>
+            </trans-unit>
+			<trans-unit id="11">
+                <source>Tenga acceso a los mejores softwares de maketing del mercado!</source>
+                <target>Gain access to the best marketing software on the market!</target>
+            </trans-unit>
+			<trans-unit id="12">
+                <source>Pongase en la mente del cliente y tenga exito en la venta!</source>
+                <target>Put yourself in your client’s shoes to get the best possible sales success!</target>
+            </trans-unit>
+			<trans-unit id="13">
+                <source>Beneficiese de tener su propia tienda Online!</source>
+                <target>See the benefits of having your own online store!</target>
+            </trans-unit>
+			<trans-unit id="14">
+                <source>Ver nuestros productos</source>
+                <target>See our products</target>
+            </trans-unit>
+			<trans-unit id="15">
+                <source>OPORTUNIDAD DE NEGOCIOS</source>
+                <target>OPPORTUNITÀ COMMERCIALE</target>
+            </trans-unit>
+			<trans-unit id="16">
+                <source>Bienvenido a</source>
+                <target>Benvenuto su</target>
+            </trans-unit>
+			<trans-unit id="17">
+                <source>¿ Alguna vez imaginó tener la posibilidad de obtener grandes ingresos por trabajar en una compañía en expansión a nivel internacional? Pues esto es posible gracias a NETVIRALPRO, una importante empresa multinivel que le dará a usted la posibilidad de crear su propio negocio online sin necesidad de invertir grandes sumas y sin correr el riesgo  que le supondría a usted tener un negocio particular. Su única misión en la compañía será  potenciar su grupo de trabajo y su red de clientes para poder llegar a obtener importantes beneficios. Para ello, la empresa le dotará de potentes herramientas de marketing que le permitirán hacer crecer su negocio. Netviralpro se encargará del resto: dar alojamiento y mantenimiento de sus páginas personales, prestar servicio de atención al cliente y  atención al representante y expandir la compañía a nivel internacional.</source>
+                <target> Hai mai voluto guadagnare un enorme reddito lavorando per un'azienda internazionale dalla rapida crescita? Bene, questa è la tua possibilità. Netviralpro è un'importante azienda di marketing multilivello che ti offre la possibilità di iniziare la tua attività commerciale on-line personale senza investire grosse cifre di denaro e senza correre gli enormi rischi finanziari a cui verresti esposto se avviassi una tua azienda. La sola missione della nostra azienda è quella di rafforzare il suo gruppo commerciale e il suo network in modo che i nostri utenti possano iniziare a guadagnare grosse cifre. Per farlo, l'azienda fornisce potenti strumenti marketing che consentono all'utente di far crescere la propria attività commerciale on-line. Netviralpro pensa a tutto il resto; fornire pagine web personali che includono manutenzione, servizio clienti e attenzione per l'utente, e promozione della nostra azienda a livello internazionale.</target>
+            </trans-unit>
+			<trans-unit id="18">
+                <source>Trabajar en equipo divide el trabajo y multiplica los resultados. ¡Este es tu momento, aprovéchalo!</source>
+                <target>Lavora come una squadra, divide il carico di lavoro, e moltiplica i risultati! Questa è la tua opportunità; non lasciarsela sfuggire!</target>
+            </trans-unit>
+			<trans-unit id="19">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="20">
+                <source>Cree su propia red de trabajo.</source>
+                <target>Create your own business network.</target>
+            </trans-unit>
+			<trans-unit id="21">
+                <source>Obtenga importantes ingresos.</source>
+                <target>Start earning some serious revenue.</target>
+            </trans-unit>
+			<trans-unit id="22">
+                <source>Aprender más</source>
+                <target>SCOPRI DI PIÙ</target>
+            </trans-unit>
+			<trans-unit id="23">
+                <source>Ver Planes de Compensación</source>
+                <target>GUARDA I PIANI DI RICOMPENSA</target>
+            </trans-unit>
+			<trans-unit id="24">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="25">
+                <source>Testimonios</source>
+                <target>TESTIMONIANZE</target>
+            </trans-unit>
+			<trans-unit id="26">
+                <source>Actualmente somos más de 1000 usuarios y seguimos creciendo!.</source>
+                <target>Al momento abbiamo oltre 1000 utenti e cresciamo rapidamente! </target>
+            </trans-unit>
+			<trans-unit id="27">
+                <source>Estas son algunas de las opiniones de nuestros clientes...</source>
+                <target>Ecco alcune testimonianze dei nostri clienti...</target>
+            </trans-unit>
+			<trans-unit id="28">
+                <source>Ver más testimonios</source>
+                <target>GUARDA ALTRE TESTIMONIANZE</target>
+            </trans-unit>
+			<trans-unit id="29">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="30">
+                <source>PORQUÉ NETVIRALPRO?</source>
+                <target>Perché lavorare con Netviralpro?</target>
+            </trans-unit>
+			<trans-unit id="31">
+                <source>NETVIRALPRO ofrece al usuario una oportunidad única para trabajar por cuenta propia pero siempre apoyada por una importante red de trabajo que forma nuestra comunidad. Como usuario dentro de la comunidad NETVIRALPRO tendrá la posibilidad de tener un horario flexible y disfrutar de su tiempo libre mientras obtiene elevados beneficios por el trabajo de su red de contactos. En NETVIRALPRO le damos la oportunidad de aprovechar al máximo sus capacidades. ¿Ha soñado alguna vez estar ganando dinero mientras está de viaje, va de compras, está cenando con su familia o sale de fiesta con sus amigos? ¡NETVIRALPRO es su oportunidad!</source>
+                <target>Netviralpro ai suoi utenti l'opportunità unica di lavorare da soli ricevendo continuo supporto dall'inestimabile network commerciale della nostra community.
+
+                        In quanto utente all'interno del network Netviralpro, puoi goderti orari lavorativi flessibili per goderti davvero il tuo tempo libero guadagnando enormi profitti grazie al tuo business network.
+
+                        Netviralpro ti dà la possibilità di massimizzare veramente le tue abilità.
+
+                        Hai mai sognato di guadagnare denaro on-line mentre viaggi, mentre fai shopping, mentre siedi a tavola con la tua famiglia o esci a fare festa con gli amici?
+                        Netviralpro è la tua chance!
+                </target>
+            </trans-unit>
+			<trans-unit id="32">
+                <source>Trabajo en equipo</source>
+                <target>Lavoro di squadra</target>
+            </trans-unit>
+			<trans-unit id="33">
+                <source>La forma en que se concibe el negocio. Cada uno trabaja individualmente pero además se beneficia del trabajo de la red que ha creado.</source>
+                <target>Questo è il modo in cui è stato concepito il business. Ciascuna persona lavora individualmente ma riceve anche i benefici del lavoro degli altri all'interno del relativo business network.</target>
+            </trans-unit>
+			<trans-unit id="34">
+                <source>Beneficio por esfuerzo</source>
+                <target>Ricompensa degli sforzi</target>
+            </trans-unit>
+			<trans-unit id="35">
+                <source>Cada usuario recibe beneficio por su esfuerzo personal y  por el esfuerzo del grupo de trabajo que él mismo ha creado.</source>
+                <target>Ciascun utente riceve dei benefici per il proprio lavoro personale così come per il lavoro di altre persone all'interno del proprio business network.</target>
+            </trans-unit>
+			<trans-unit id="36">
+                <source>Transparencia</source>
+                <target>Trasparenza</target>
+            </trans-unit>
+			<trans-unit id="37">
+                <source>El modo en que la empresa se muestra hacia todos sus usuarios, las empresas y los clientes potenciales.</source>
+                <target>C'è trasparenza completa nel modo in cui l'azienda viene presentata ai suoi utenti, alle attività commerciali, e ai potenziali clienti.</target>
+            </trans-unit>
+			<trans-unit id="38">
+                <source>Sostenibilidad</source>
+                <target>Sostenibilità</target>
+            </trans-unit>
+			<trans-unit id="39">
+                <source>La forma en que la empresa plantea la idea de negocio.</source>
+                <target>L'azienda forma delle strategie commerciali sostenibili.</target>
+            </trans-unit>
+			<trans-unit id="40">
+                <source>Eficacia</source>
+                <target>Efficienza</target>
+            </trans-unit>
+			<trans-unit id="41">
+                <source>Entendida como la posibilidad que le da al usuario para tener su propio negocio y conseguir un resultado brillante.</source>
+                <target>Intesa come la possibilità che viene fornita all'utente per creare il proprio business on-line e ottenere risultati impressionanti.</target>
+            </trans-unit>
+			<trans-unit id="42">
+                <source>Rendimiento óptimo</source>
+                <target>Performance ottimali</target>
+            </trans-unit>
+			<trans-unit id="43">
+                <source>La posibilidad que la empresa da al usuario para que pueda conseguir beneficios de acuerdo a su esfuerzo y el de su grupo de trabajo.</source>
+                <target>L'opportunità che l'azienda dà ai suoi utenti di guadagnare denaro a seconda dei loro sforzi individuali e di quelli all'interno del proprio business network.</target>
+            </trans-unit>
+			<trans-unit id="44">
+                <source>Empieza Ahora!</source>
+                <target>INIZIA ORA</target>
+            </trans-unit>
+			<trans-unit id="45">
+                <source>Productos</source>
+                <target>I NOSTRI PRODOTTI</target>
+            </trans-unit>
+			<trans-unit id="46">
+                <source>Oportunidad</source>
+                <target>OPPORTUNITÀ</target>
+            </trans-unit>
+			<trans-unit id="47">
+                <source>Contacta</source>
+                <target>Contact</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>SOBRE NOSOTROS</source>
+                <target>ABOUT US</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>PRODUCTOS</source>
+                <target>PRODUCTS</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>OPORTUNIDAD</source>
+                <target>OPORTUNITY</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>TESTIMONIOS</source>
+                <target>TESTIMONIALS</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>PORQUE NETVIRALPRO?</source>
+                <target>WHY NETVIRALPRO?</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>CONTACTA</source>
+                <target>CONTATTO</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>ENTRAR</source>
+                <target>ACCEDI</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Empieza tu negocio online ahora mismo!</source>
+                <target>Avvia il tuo business on-line personale adesso!</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Mejora tus conocimientos de marketing con los mejores especialistas.</source>
+                <target>Migliora la tua conoscenza di marketing con l'aiuto dei migliori specialisti.</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Ten acceso a los mejores softwares de maketing del mercado!</source>
+                <target>Accedi al miglior software di marketing sul mercato!</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Ponte en la mente del cliente y tenga exito en la venta!</source>
+                <target>Mettiti nei panni del tuo cliente per avere il miglior successo possibile nelle vendite!</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Tenga su propia tienda Online!</source>
+                <target>Dai un'occhiata ai benefici del possedere il tuo store on-line!</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>BIENVENIDO A LA GRAN OPORTUNIDAD DE NEGOCIO QUE PRESENTA NETVIRALPRO.COM!</source>
+                <target>BENVENUTO NELLA NUOVA ECCITANTE OPPORTUNITÀ COMMERCIALE DI Netviralpro.COM!</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Para empezar a ganar dinero con Netviralpro, deberá de tener activo al menos el Producto Matrix Hive,  el cual es nuestro producto de registro. Una vez registrado, usted empezará a crear su propia red de trabajo. En la siguiente imagen, se muestra como se distribuye nuestro plan de compensación.</source>
+                <target>Per iniziare a guadagnare denaro con Netviralpro, dovrai per prima cosa attivare il prodotto Hive Matrix (il nostro prodotto a registrazione). In seguito alla registrazione, dovrai iniziare a creare il tuo business network. L'immagine seguente mostra il modo in cui distribuiamo il nostro piano ricompense.</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Nuestro Sistema funciona así:</source>
+                <target>Il nostro sistema funziona nel modo seguente:</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>HASTA NIVELES INFINITOS!</source>
+                <target>FINO A LIVELLI INFINITI</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Suponiendo que usted es Paul:</source>
+                <target>Supponiamo che tu sia Paul:</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Sólo necesitará registrar a un usuario para recuperar la inversión realizada y poder empezar a ganar importantes sumas de dinero!</source>
+                <target>Devi registrare solo un utente per poter coprire il tuo investimento iniziale ed iniziare a guadagnare enormi somme di denaro!</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Los usuarios que se registren a través de usted en el negocio en las posiciones 1-3-5-7-8-9 y a partir de la posición número 10 todas las que no acaben en 0 o 5, recibirán el nombre de ``USUARIOS COMISIONABLES TIPO 1´´.  Usted obtendrá el 100% de beneficio de todas sus ventas.</source>
+                <target>Gli utenti che si registrano attraverso di te nelle posizioni commerciali 1-3-5-7-8-9 e dalla 10 in poi, a patto che non finiscano in 0 o 5, sono noti come “UTENTI COMMISSIONABILI DI TIPO 1". Tu guadagnerai il 100% di profitto da tutte le loro vendite.</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Los usuarios que se registren a través de usted en el negocio en las posiciones 2-4-6-10-15-20-25-30-35 y de cinco en cinco sucesivamente, serán comisionables para el proveedor que le corresponda (no para usted) . Estos recibirán el nombre de ``USUARIOS NO COMISIONABLES TIPO  1´´. </source>
+                <target>Gli utenti che si registrano attraverso di te nelle posizioni commerciali 2-4-6-10-15-20-25-30-35 e in tutti numeri successivi che finiscono per 5, saranno commissionabili al provider corrispondente (non a te). Queste sono noti come “UTENTI NON COMMISSIONABILI DI TIPO 1”.</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Obtendrá el 100% de beneficio de todos los usuarios que se registren en el negocio a través de sus Usuarios Comisionables Tipo 1 en sus posiciones 2-4-6-10-15-20-25-30-35 y de cinco en cinco sucesivamente, convirtiéndose ellos  desde ese momento en nuevos usuarios comisionables en tu red. Sería como si estos usuarios se hubiesen registrado al negocio directamente a través  suyo. Este proceso, se repetirá hasta niveles infinitos. Estos usuarios recibirán el nombre de ``USUARIOS COMISIONABLES TIPO  2´´. </source>
+                <target>Riceverai il 100% delle commissioni da qualsiasi utente che si registra come Utente Commissionabile di Tipo 1 nelle posizioni 2-4-6-10-15-20-25-30-35 ed ogni numero successivo che finisce per 5. Da questo momento in poi, questo li trasforma in nuovi utenti commissionaibili del tuo network. È come se questi utenti fossero stati registrati direttamente all'interno dell'attività commerciale attraverso di te. Questo processo si ripete fino all'infinito e tali utenti sono noti come “UTENTI COMMISSIONABILI DI TIPO 2”.</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Los demás usuarios que estén dentro de su red a partir de su segundo nivel de generación y que no le reportan beneficio a usted, recibirán el nombre de `` USUARIOS NO COMISIONABLES 2´´. </source>
+                <target>Altri utenti all'interno del tuo network dai guadagni di secondo livello che non ti fanno guadagnare commissioni sono noti come “UTENTI NON COMMISSIONABILI DI TIPO 2”.</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Mediante la siguiente tabla, podrá entender mejor nuestro plan de compensación:</source>
+                <target>La tabella seguente ti aiuterà a comprendere meglio il nostro piano ricompense:</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>De la red que usted cree, comisionará:</source>
+                <target>Il network da te creato guadagnerà commissioni uguali a:</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>- El 100 del valor de los productos que haya comprado.</source>
+                <target>- 100% del valore dei prodotti che sono stati comprati.</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Este proceso se repetirá hasta niveles infinitos, por lo que creando un buen grupo de trabajo podrá ganar importantes sumas de dinero de personas que ni siquiera conoce.</source>
+                <target>Questo processo si ripete all'infinito. Perciò, creare un gruppo che funziona bene può farti guadagnare enormi somme di contante da persone che non conosci nemmeno.</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>- El 25 del valor de los productos que no haya comprado.</source>
+                <target>- 25% del valore dei prodotti che non sono stati comprati.</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Tipo de Usuario</source>
+                <target>Tipo Utente</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Nivel de Generación</source>
+                <target>Livello di Guadagni</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>Posiciones</source>
+                <target>Posizioni</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Ganancias</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Resumen de Ventas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>VENTAS DEL DIA</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>VENTAS DE LA SEMANA</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>Usuario con privilegios de Administración</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Nuevos Usuarios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Nuevos Contenidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>Ventas Realizadas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source>Configuraciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>Gestión de Modulos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Zona Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>Inicio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Correo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>Oportunidad de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="94">
+                <source>Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="95">
+                <source>Expandir su Negocio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Compartir en Redes Sociales</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="97">
+                <source>Banco Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="98">
+                <source>Transacciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="99">
+                <source>Retirar Fondos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="100">
+                <source>Listado de Tipos de Productos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="101">
+                <source>Listado de Tipos de Transacciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>Listado de Tipos de Notificaciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>Listado de Planes</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>Por página</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>Nombre</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>Activo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>Mostrar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>Editar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>Eliminar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>Buscar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Anterior</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>Siguiente</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>Icono</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>Color</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Posición</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="117">
+                <source>Código Numérico</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="118">
+                <source>Alpha2Code</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="119">
+                <source>Alpha3Code</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="120">
+                <source>Porciento</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="121">
+                <source>Seleccione el módulo a modificar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="122">
+                <source>Nombre del módulo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="123">
+                <source>Precio de Venta</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="124">
+                <source>Breve Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="125">
+                <source>Amplia Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="126">
+                <source>Guardar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="127">
+                <source>Cancelar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="128">
+                <source>Perfil</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="129">
+                <source>Cuenta Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="130">
+                <source>Usuario</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="131">
+                <source>Apellidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="132">
+                <source>Sexo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="133">
+                <source>Cumpleaños</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="134">
+                <source>País</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="135">
+                <source>Ciudad</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="136">
+                <source>Dirección</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="137">
+                <source>Correo Electrónico</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="138">
+                <source>Registro</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="139">
+                <source>Skype</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="140">
+                <source>Whatsapp</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="141">
+                <source>Facebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="142">
+                <source>Twitter</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="143">
+                <source>Google</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="144">
+                <source>Página Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="145">
+                <source>Número del Móvil</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="146">
+                <source>Sobre mi</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="147">
+                <source>Información Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="148">
+                <source>Cambiar Avatar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="149">
+                <source>Cambiar Contraseña</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="150">
+                <source>Configuración de Notificaciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="151">
+                <source>Nuevo Mensaje</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="152">
+                <source>Enviados</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="153">
+                <source>Recibidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="154">
+                <source>De</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="155">
+                <source>Asunto</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="156">
+                <source>Fecha</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="157">
+                <source>Primera Generación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="158">
+                <source>Toda la Red</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="159">
+                <source>Imprimir Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="160">
+                <source>Red de Usuarios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="161">
+                <source>Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="162">
+                <source>Foto</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="163">
+                <source>Membresia</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="164">
+                <source>Generación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="165">
+                <source>Posición</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="166">
+                <source>Más información</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="167">
+                <source>Últimas 24 horas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="168">
+                <source>Semanal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="169">
+                <source>Mensual</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="170">
+                <source>Trimestral</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="171">
+                <source>Anual</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="172">
+                <source>Por período</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="173">
+                <source>Dinero</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="174">
+                <source>Categoría</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="175">
+                <source>No hay Datos disponibles</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="176">
+                <source>Audios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="177">
+                <source>Ebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="178">
+                <source>Adicionar Fichero de Audio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="179">
+                <source>Adicionar Ebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="180">
+                <source>No hay Fichero Seleccionado</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="181">
+                <source>Adicionar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="182">
+                <source>Volver al Listado</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="183">
+                <source>Adicionar Software</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="184">
+                <source>Plataforma</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="185">
+                <source>Código de Activación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="186">
+                <source>Seleccionar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="187">
+                <source>Complete el registro</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="188">
+                <source>Administre su negocio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="189">
+                <source>Comprar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="190">
+                <source>Recuérdame</source>
+                <target></target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

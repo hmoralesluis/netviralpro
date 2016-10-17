@@ -1,0 +1,790 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="es" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="1">
+                <source>Bienvenido a NETVIRALPRO</source>
+                <target>欢迎访问Netviralpro.com！</target>
+            </trans-unit>
+			<trans-unit id="2">
+                <source>Gane su primera comisión rápidamente.</source>
+                <target>快速赢取你的第一笔佣金！</target>
+            </trans-unit>
+			<trans-unit id="3">
+                <source>¡Este es tu momento, aprovéchalo!</source>
+                <target>千万不要错过这个绝佳机会！</target>
+            </trans-unit>
+			<trans-unit id="4">
+                <source>Sobre Nosotros</source>
+                <target>公司简介</target>
+            </trans-unit>
+			<trans-unit id="5">
+                <source>Netviralpro.com, pertenece al sector de venta de servicios y negocios online y se desarrolla a nivel internacional. Esto permitirá al usuario desarrollar su propio negocio en cualquier parte del mundo. La empresa, fundada por importantes empresarios internacionales, pretende fortalecer todos los vínculos existentes entre los miembros de nuestra comunidad, las empresas y los usuarios convencionales para que pueda existir un importante vínculo retroactivo entre todos. NETVIRALPRO trabaja bajo un sistema de recompensas multinivel, donde se premia tanto el trabajo individual como el grupal y donde todos los usuarios pueden obtener grandes beneficios, tanto por su trabajo como por el de su grupo. Presenta un sistema retributivo flexible y transparente, lo que supondrá al usuario una mayor estabilidad y confianza para saber que su negocio sigue creciendo de una forma estable y sin ningún tipo de riesgo.</source>
+                <target>Netviralpro.com是一家致力于提供优质网络营销服务的公司，目前正在走向国际化发展之路。
+                        我们以全方位服务理念为支撑，帮助客户在全球任何地方开展在线业务。公司由全球的商业领袖创立，
+                        旨在帮助我们的社区成员、公司以及普通用户之间建立密切的业务联系。
+
+                        Netviralpro采用多级奖励系统，奖励个人及小组工作成果，帮助所有客户实现成功。我们的系统灵活多变，运行机制透明，旨在帮助客户拓展业务，规避风险，并与客户建立诚信与稳固的合作关系。
+                </target>
+            </trans-unit>
+			<trans-unit id="6">
+                <source>Según expertos analistas en pocos años se convertirá en una de las empresas de mayor crecimiento a nivel mundial, gracias a su novedosa visión de la industria multinivel. ¿Ha imaginado alguna vez una oportunidad de negocio que le permita especializarse en el área o áreas de trabajo que usted mismo decida? Pues bien, con NETVIRALPRO podrá conseguirlo y obtener grandes beneficios trabajando en algo que realmente le guste. Además le dará la oportunidad de tener un sueldo de acuerdo a sus expectativas y esfuerzo. De este modo, gracias a la oportunidad de negocio que se ofrece desde NETVIRALPRO y el potencial de crecimiento que se augura por parte de la compañía, hace que esté enfrente de usted una de las oportunidades más brillantes de la historia. ¿Acepta este reto? En NETVIRALPRO podrá trabajar por su cuenta, pero nunca estará sólo, ya que tras usted habrá una importante red de trabajo. NETVIRALPRO es sinónimo de ÉXITO.</source>
+                <target>由于我们创新的多层次营销理念，专家分析说在几年内我们将会成为全球在线业务增长最快的公司之一。想象着在某个地方，你满怀激情地开始了你的创业之旅，这是多么美妙的事情！加入Netviralpro，你可以做自己喜欢的事情来赚大钱；同时，我们也会帮你赚取薪金，只要你肯付出努力。
+
+                        Netviralpro提供了绝佳的商业机会，未来具备良好发展潜力。加入我们吧，你将站在风口浪尖上，把握史上最激动人心的商机。你准备好迎接挑战了吗？
+
+                        在Netviralpro上，你可以选择单独完成工作。随着业务网络的快速发展，未来会有更多用户加入到你的工作，你再也不会孤军奋战。
+
+
+                        Netviralpro是你成功的摇篮！
+                </target>
+            </trans-unit>
+			<trans-unit id="7">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="8">
+                <source>Nuestros Productos</source>
+                <target>产品与服务</target>
+            </trans-unit>
+			<trans-unit id="9">
+                <source>Empiece su negocio online ahora mismo!</source>
+                <target>立即开始你的在线业务！</target>
+            </trans-unit>
+			<trans-unit id="10">
+                <source>Mejore sus conocimientos de marketing con los mejores especialistas.</source>
+                <target>让专家帮你提高专业的营销知识。</target>
+            </trans-unit>
+			<trans-unit id="11">
+                <source>Tenga acceso a los mejores softwares de maketing del mercado!</source>
+                <target>获取市场上最好的营销软件。</target>
+            </trans-unit>
+			<trans-unit id="12">
+                <source>Pongase en la mente del cliente y tenga exito en la venta!</source>
+                <target>站在客户的角度思考问题，并获得最大的销售成功。</target>
+            </trans-unit>
+			<trans-unit id="13">
+                <source>Beneficiese de tener su propia tienda Online!</source>
+                <target>你会看到在线商店给你带来的所有好处！</target>
+            </trans-unit>
+			<trans-unit id="14">
+                <source>Ver nuestros productos</source>
+                <target>产品与服务</target>
+            </trans-unit>
+			<trans-unit id="15">
+                <source>OPORTUNIDAD DE NEGOCIOS</source>
+                <target>商业机会</target>
+            </trans-unit>
+			<trans-unit id="16">
+                <source>Bienvenido a</source>
+                <target>欢迎访问</target>
+            </trans-unit>
+			<trans-unit id="17">
+                <source>¿ Alguna vez imaginó tener la posibilidad de obtener grandes ingresos por trabajar en una compañía en expansión a nivel internacional? Pues esto es posible gracias a NETVIRALPRO, una importante empresa multinivel que le dará a usted la posibilidad de crear su propio negocio online sin necesidad de invertir grandes sumas y sin correr el riesgo  que le supondría a usted tener un negocio particular. Su única misión en la compañía será  potenciar su grupo de trabajo y su red de clientes para poder llegar a obtener importantes beneficios. Para ello, la empresa le dotará de potentes herramientas de marketing que le permitirán hacer crecer su negocio. Netviralpro se encargará del resto: dar alojamiento y mantenimiento de sus páginas personales, prestar servicio de atención al cliente y  atención al representante y expandir la compañía a nivel internacional.</source>
+                <target>你曾想过为一个高速发展的国际公司工作来获取一笔不菲的收入？那么请不要错过这个机会。Netviralpro是一家重要的多层次营销公司，在这里，你不需要投入大量资金就可以开启你的在线业务，也不用冒着巨大的财务风险创立你的公司。我们公司的唯一使命就是促进商业小组的发展，加强业务网络的构建，帮助我们的用户获取更大收益。因此，公司提供了强大的营销工具，帮助用户拓展自己的在线业务。Netviralpro还提供以下服务：提供个人网页，包括维护、客户服务和关注力，以及我们公司在国际市场上的推广服务。
+
+                        让用户像团队一样工作，分配工作量，获得翻倍的成果！
+
+                        千万不要错过这个绝佳机会！
+                </target>
+            </trans-unit>
+			<trans-unit id="18">
+                <source>Trabajar en equipo divide el trabajo y multiplica los resultados. ¡Este es tu momento, aprovéchalo!</source>
+                <target>让用户像团队一样工作，分配工作量，获得翻倍的成果！ 千万不要错过这个绝佳机会！ </target>
+            </trans-unit>
+			<trans-unit id="19">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="20">
+                <source>Cree su propia red de trabajo.</source>
+                <target>构建自己的业务网络。</target>
+            </trans-unit>
+			<trans-unit id="21">
+                <source>Obtenga importantes ingresos.</source>
+                <target>开始赚取巨额收入。</target>
+            </trans-unit>
+			<trans-unit id="22">
+                <source>Aprender más</source>
+                <target>了解详情</target>
+            </trans-unit>
+			<trans-unit id="23">
+                <source>Ver Planes de Compensación</source>
+                <target>更多薪酬方案</target>
+            </trans-unit>
+			<trans-unit id="24">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="25">
+                <source>Testimonios</source>
+                <target>客户感言。</target>
+            </trans-unit>
+			<trans-unit id="26">
+                <source>Actualmente somos más de 1000 usuarios y seguimos creciendo!.</source>
+                <target>我们目前拥有超过1000名用户，用户数量正在快速增长。这是我们的一些客户感言。
+                </target>
+            </trans-unit>
+			<trans-unit id="27">
+                <source>Estas son algunas de las opiniones de nuestros clientes...</source>
+                <target>Here are some testimonials from our clients...</target>
+            </trans-unit>
+			<trans-unit id="28">
+                <source>Ver más testimonios</source>
+                <target>更多客户感言</target>
+            </trans-unit>
+			<trans-unit id="29">
+                <source></source>
+                <target></target>
+            </trans-unit>
+			<trans-unit id="30">
+                <source>PORQUÉ NETVIRALPRO?</source>
+                <target>为什么选择与我们合作？为什么选择与我们合作？</target>
+            </trans-unit>
+			<trans-unit id="31">
+                <source>NETVIRALPRO ofrece al usuario una oportunidad única para trabajar por cuenta propia pero siempre apoyada por una importante red de trabajo que forma nuestra comunidad. Como usuario dentro de la comunidad NETVIRALPRO tendrá la posibilidad de tener un horario flexible y disfrutar de su tiempo libre mientras obtiene elevados beneficios por el trabajo de su red de contactos. En NETVIRALPRO le damos la oportunidad de aprovechar al máximo sus capacidades. ¿Ha soñado alguna vez estar ganando dinero mientras está de viaje, va de compras, está cenando con su familia o sale de fiesta con sus amigos? ¡NETVIRALPRO es su oportunidad!</source>
+                <target>Netviralpro社区拥有宝贵的业务网络，为用户提供了一个为自己工作的独特机会。Netviralpro业务网络为你提供弹性的工作时间，你可以一边享受休闲时光，一边挣大钱。Netviralpro为你提供了一身身手的好机会。
+
+                        你曾梦想在旅行、购物时可以网络赚钱吗？你曾梦想和家人聚餐、和朋友外出游玩时也可以网络赚钱吗？Netviralpro是你梦想起航的地方！
+                </target>
+            </trans-unit>
+			<trans-unit id="32">
+                <source>Trabajo en equipo</source>
+                <target>团队合作</target>
+            </trans-unit>
+			<trans-unit id="33">
+                <source>La forma en que se concibe el negocio. Cada uno trabaja individualmente pero además se beneficia del trabajo de la red que ha creado.</source>
+                <target>公司业务设想：每个人构建自己的业务网络，为自己工作的同时，也能从他人的工作中获益。</target>
+            </trans-unit>
+			<trans-unit id="34">
+                <source>Beneficio por esfuerzo</source>
+                <target>付出与回报</target>
+            </trans-unit>
+			<trans-unit id="35">
+                <source>Cada usuario recibe beneficio por su esfuerzo personal y  por el esfuerzo del grupo de trabajo que él mismo ha creado.</source>
+                <target>在每个人的业务网络中，你不仅可以从自己的工作中获益，也可以从他人的工作中获益。</target>
+            </trans-unit>
+			<trans-unit id="36">
+                <source>Transparencia</source>
+                <target>透明度</target>
+            </trans-unit>
+			<trans-unit id="37">
+                <source>El modo en que la empresa se muestra hacia todos sus usuarios, las empresas y los clientes potenciales.</source>
+                <target>公司的信息资料将会向所有用户、企业和潜在客户公开。</target>
+            </trans-unit>
+			<trans-unit id="38">
+                <source>Sostenibilidad</source>
+                <target>可持续性</target>
+            </trans-unit>
+			<trans-unit id="39">
+                <source>La forma en que la empresa plantea la idea de negocio.</source>
+                <target>公司实施可持续经营策略。</target>
+            </trans-unit>
+			<trans-unit id="40">
+                <source>Eficacia</source>
+                <target>效率性</target>
+            </trans-unit>
+			<trans-unit id="41">
+                <source>Entendida como la posibilidad que le da al usuario para tener su propio negocio y conseguir un resultado brillante.</source>
+                <target>公司尽最大可能帮助用户开展在线业务，并获得理想的商业结果。</target>
+            </trans-unit>
+			<trans-unit id="42">
+                <source>Rendimiento óptimo</source>
+                <target>最优化</target>
+            </trans-unit>
+			<trans-unit id="43">
+                <source>La posibilidad que la empresa da al usuario para que pueda conseguir beneficios de acuerdo a su esfuerzo y el de su grupo de trabajo.</source>
+                <target>公司给每个用户提供公平的发展机会，你可以通过自己的不懈努力以及扩展业务网络来获取最大化收益。</target>
+            </trans-unit>
+			<trans-unit id="44">
+                <source>Empieza Ahora!</source>
+                <target>现在开始</target>
+            </trans-unit>
+			<trans-unit id="45">
+                <source>Productos</source>
+                <target>Products</target>
+            </trans-unit>
+			<trans-unit id="46">
+                <source>Oportunidad</source>
+                <target>机遇</target>
+            </trans-unit>
+			<trans-unit id="47">
+                <source>Contacta</source>
+                <target>Contact</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>SOBRE NOSOTROS</source>
+                <target>ABOUT US</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>PRODUCTOS</source>
+                <target>PRODUCTS</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>OPORTUNIDAD</source>
+                <target>OPORTUNITY</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>TESTIMONIOS</source>
+                <target>TESTIMONIALS</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>PORQUE NETVIRALPRO?</source>
+                <target>WHY NETVIRALPRO?</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>CONTACTA</source>
+                <target>联系我们</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>ENTRAR</source>
+                <target>登录</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Empieza tu negocio online ahora mismo!</source>
+                <target>立即开始你的在线业务！</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Mejora tus conocimientos de marketing con los mejores especialistas.</source>
+                <target>让专家帮你提高专业的营销知识。</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Ten acceso a los mejores softwares de maketing del mercado!</source>
+                <target>获取市场上最好的营销软件。</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Ponte en la mente del cliente y tenga exito en la venta!</source>
+                <target> 站在客户的角度思考问题，并获得最大的销售成功。</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Tenga su propia tienda Online!</source>
+                <target>你会看到在线商店给你带来的所有好处！</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>BIENVENIDO A LA GRAN OPORTUNIDAD DE NEGOCIO QUE PRESENTA NETVIRALPRO.COM!</source>
+                <target>欢迎加入Netviralpro.com，发现激动人心的新商机！</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Para empezar a ganar dinero con Netviralpro, deberá de tener activo al menos el Producto Matrix Hive,  el cual es nuestro producto de registro. Una vez registrado, usted empezará a crear su propia red de trabajo. En la siguiente imagen, se muestra como se distribuye nuestro plan de compensación.</source>
+                <target>第一步需要激活Hive Matrix产品（我们的注册型产品）。然后，你必须开始创建自己的业务网络。以下图片会向你展示我们的薪酬计划。</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Nuestro Sistema funciona así:</source>
+                <target>我们系统的工作原理如下:</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>HASTA NIVELES INFINITOS!</source>
+                <target>无限级别</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Suponiendo que usted es Paul:</source>
+                <target>假设你是Paul：</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Sólo necesitará registrar a un usuario para recuperar la inversión realizada y poder empezar a ganar importantes sumas de dinero!</source>
+                <target>为了涵盖你的初始投资，你只需要注册一个账户即可开始赚大钱！</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Los usuarios que se registren a través de usted en el negocio en las posiciones 1-3-5-7-8-9 y a partir de la posición número 10 todas las que no acaben en 0 o 5, recibirán el nombre de ``USUARIOS COMISIONABLES TIPO 1´´.  Usted obtendrá el 100% de beneficio de todas sus ventas.</source>
+                <target>通过你注册的用户，如果他们的业务编号是1-3-5-7-8-9，从10开始，若编号末位不是0或5，他们统统被编为“佣金用户类型1”。你将会从他们所有的销售获取100%利润。</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Los usuarios que se registren a través de usted en el negocio en las posiciones 2-4-6-10-15-20-25-30-35 y de cinco en cinco sucesivamente, serán comisionables para el proveedor que le corresponda (no para usted) . Estos recibirán el nombre de ``USUARIOS NO COMISIONABLES TIPO  1´´. </source>
+                <target>通过你注册的用户，如果他们的业务编号是2-4-6-10-15-20-25-30-35，且连续编号的末位是5，他们相应的佣金提供者（不包括你）被编为“非佣金用户类型1”。</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Obtendrá el 100% de beneficio de todos los usuarios que se registren en el negocio a través de sus Usuarios Comisionables Tipo 1 en sus posiciones 2-4-6-10-15-20-25-30-35 y de cinco en cinco sucesivamente, convirtiéndose ellos  desde ese momento en nuevos usuarios comisionables en tu red. Sería como si estos usuarios se hubiesen registrado al negocio directamente a través  suyo. Este proceso, se repetirá hasta niveles infinitos. Estos usuarios recibirán el nombre de ``USUARIOS COMISIONABLES TIPO  2´´. </source>
+                <target>通过佣金用户类型1注册的用户，如果他们的编号是2-4-6-10-15-20-25-30-35，且连续编号的末位是5，你将会获得100%佣金。从那一刻起，他们在你的业务网络中被转化为新佣金用户。就像这些用户是直接通过你注册业务的。这个过程无限重复，这些用户被编为“佣金用户类型2”。</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Los demás usuarios que estén dentro de su red a partir de su segundo nivel de generación y que no le reportan beneficio a usted, recibirán el nombre de `` USUARIOS NO COMISIONABLES 2´´. </source>
+                <target>你业务网络中的第二等级收益的用户不会得到你的佣金，他们被编为“非佣金用户类型2”.</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Mediante la siguiente tabla, podrá entender mejor nuestro plan de compensación:</source>
+                <target>以下表格可以帮你更好地了解我们的薪酬计划：</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>De la red que usted cree, comisionará:</source>
+                <target>你创建的业务网络获得佣金的条件是：</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>- El 100 del valor de los productos que haya comprado.</source>
+                <target>-产品价值的100%已经被购买。</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Este proceso se repetirá hasta niveles infinitos, por lo que creando un buen grupo de trabajo podrá ganar importantes sumas de dinero de personas que ni siquiera conoce.</source>
+                <target>整个过程无限重复。因此，创造一个良好的工作组，就算彼此不认识，你也可以赚大钱。</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>- El 25 del valor de los productos que no haya comprado.</source>
+                <target>-产品价值的25%还没有被购买。</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Tipo de Usuario</source>
+                <target>用户类型</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Nivel de Generación</source>
+                <target>收益级别</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>Posiciones</source>
+                <target>业务编号</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Ganancias</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Resumen de Ventas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>VENTAS DEL DIA</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>VENTAS DE LA SEMANA</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>Usuario con privilegios de Administración</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Nuevos Usuarios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Nuevos Contenidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>Ventas Realizadas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source>Configuraciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>Gestión de Modulos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Zona Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>Inicio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Correo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>Oportunidad de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="94">
+                <source>Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="95">
+                <source>Expandir su Negocio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Compartir en Redes Sociales</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="97">
+                <source>Banco Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="98">
+                <source>Transacciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="99">
+                <source>Retirar Fondos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="100">
+                <source>Listado de Tipos de Productos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="101">
+                <source>Listado de Tipos de Transacciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>Listado de Tipos de Notificaciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>Listado de Planes</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>Por página</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>Nombre</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>Activo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>Mostrar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>Editar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>Eliminar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>Buscar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Anterior</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>Siguiente</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>Icono</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>Color</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Posición</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="117">
+                <source>Código Numérico</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="118">
+                <source>Alpha2Code</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="119">
+                <source>Alpha3Code</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="120">
+                <source>Porciento</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="121">
+                <source>Seleccione el módulo a modificar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="122">
+                <source>Nombre del módulo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="123">
+                <source>Precio de Venta</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="124">
+                <source>Breve Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="125">
+                <source>Amplia Descripción</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="126">
+                <source>Guardar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="127">
+                <source>Cancelar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="128">
+                <source>Perfil</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="129">
+                <source>Cuenta Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="130">
+                <source>Usuario</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="131">
+                <source>Apellidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="132">
+                <source>Sexo</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="133">
+                <source>Cumpleaños</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="134">
+                <source>País</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="135">
+                <source>Ciudad</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="136">
+                <source>Dirección</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="137">
+                <source>Correo Electrónico</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="138">
+                <source>Registro</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="139">
+                <source>Skype</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="140">
+                <source>Whatsapp</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="141">
+                <source>Facebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="142">
+                <source>Twitter</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="143">
+                <source>Google</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="144">
+                <source>Página Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="145">
+                <source>Número del Móvil</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="146">
+                <source>Sobre mi</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="147">
+                <source>Información Personal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="148">
+                <source>Cambiar Avatar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="149">
+                <source>Cambiar Contraseña</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="150">
+                <source>Configuración de Notificaciones</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="151">
+                <source>Nuevo Mensaje</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="152">
+                <source>Enviados</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="153">
+                <source>Recibidos</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="154">
+                <source>De</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="155">
+                <source>Asunto</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="156">
+                <source>Fecha</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="157">
+                <source>Primera Generación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="158">
+                <source>Toda la Red</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="159">
+                <source>Imprimir Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="160">
+                <source>Red de Usuarios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="161">
+                <source>Red de Negocios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="162">
+                <source>Foto</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="163">
+                <source>Membresia</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="164">
+                <source>Generación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="165">
+                <source>Posición</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="166">
+                <source>Más información</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="167">
+                <source>Últimas 24 horas</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="168">
+                <source>Semanal</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="169">
+                <source>Mensual</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="170">
+                <source>Trimestral</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="171">
+                <source>Anual</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="172">
+                <source>Por período</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="173">
+                <source>Dinero</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="174">
+                <source>Categoría</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="175">
+                <source>No hay Datos disponibles</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="176">
+                <source>Audios</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="177">
+                <source>Ebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="178">
+                <source>Adicionar Fichero de Audio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="179">
+                <source>Adicionar Ebook</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="180">
+                <source>No hay Fichero Seleccionado</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="181">
+                <source>Adicionar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="182">
+                <source>Volver al Listado</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="183">
+                <source>Adicionar Software</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="184">
+                <source>Plataforma</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="185">
+                <source>Código de Activación</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="186">
+                <source>Seleccionar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="187">
+                <source>Complete el registro</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="188">
+                <source>Administre su negocio</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="189">
+                <source>Comprar</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="190">
+                <source>Recuérdame</source>
+                <target></target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

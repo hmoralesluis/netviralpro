@@ -1,0 +1,77 @@
+<?php
+
+namespace App\AdminBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+use Symfony\Bridge\Doctrine\Validator\Constraints as DoctrineAssert;
+use Symfony\Component\HttpFoundation\File\UploadedFile;
+use Symfony\Component\Validator\Constraints as Assert;
+
+/**
+ * Cart
+ *
+ * @ORM\Entity(repositoryClass="App\AdminBundle\Entity\CartRepository")
+ * @ORM\HasLifecycleCallbacks
+ */
+class Cart
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue
+     */
+    private $id;
+
+    /**
+     * @ORM\Column(type="integer", nullable=false)
+     * @Assert\NotBlank()
+     */
+    private $orden;
+
+    /**
+     * @ORM\Column(type="string", nullable=false)
+     * @Assert\NotBlank()
+     */
+    private $name;
+
+    /**
+     * @ORM\Column(type="float", nullable=false)
+     * @Assert\NotBlank()
+     */
+    private $price;
+
+    /**
+     * @ORM\Column(type="integer", nullable=false)
+     * @Assert\NotBlank()
+     */
+    private $quantity;
+
+    /**
+     * @ORM\Column(type="string", length=1 ,nullable=false)
+     * @Assert\NotBlank()
+     */
+    private $estado;
+
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(type="date")
+     */
+    private $date;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(type="string")
+     */
+    private $nickname;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="User", inversedBy="transactions")
+     * @ORM\JoinColumn(name="user_id", referencedColumnName="id", nullable=false)
+     */
+    private $user;
+
+}

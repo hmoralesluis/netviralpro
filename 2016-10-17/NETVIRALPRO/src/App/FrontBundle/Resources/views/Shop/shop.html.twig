@@ -1,0 +1,50 @@
+{% extends 'FrontBundle::layout-shop.html.twig' %}
+
+{% block title %}TIENDA NETVIRALPRO{% endblock %}
+
+{% block titulo %} {{  entity }} {% endblock %}
+
+{% block nombcat %} {{  nombcateg }} {% endblock %}
+
+{% block body %}
+
+<div class="container-fluid">
+    <hr class="invis">
+
+    <div class="row">
+
+        {% for subcat in subcategory %}
+            <div class="col-md-2">
+                <div class="pitem gallery-item item-w1 item-h1 cat1">
+                    <div class="custom-item">
+                        <div class="media-element">
+                            <div class="entry">
+                                <img src="{{ asset('bundles/admin/shop/' ~ subcat.filename) }}" alt="" class="img-responsive">
+                                <div class="magnifier">
+                                    <a href="shop-single-sidebar.html">
+                                        <div class="hovericons">
+                                            <i class="fa fa-shopping-basket"></i>
+                                        </div>
+                                    </a>
+                                </div><!-- end magnifier -->
+                            </div>
+                        </div><!-- end media -->
+
+                        <div class="gallery-desc-full big-gallery">
+                            <h4 class="gallery-title">PRECIO: {{ subcat.price }}</h4>
+                            <div class="new-price">
+                                <h5 class="title"><a href="shop-single-sidebar.html">TIEMPO DE ENTREGA: {{ subcat.deliverytime }}</a></h5>
+                            </div>
+                            <small class="wishlist-add"><a href="#">Adicionar al carrito</a></small>
+                        </div>
+                    </div><!-- item -->
+                </div><!-- item -->
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}
+
+
+
